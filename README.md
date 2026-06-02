@@ -20,19 +20,19 @@ https://www.linkedin.com/posts/papunsamal_internpe-webdevelopment-javascript-ugc
 
 ### Home Screen
 
-<img src="screenshots/home.png" width="800">
+<img src="<img width="1920" height="948" alt="Screenshot 2026-06-02 091344" src="https://github.com/user-attachments/assets/3e65b3ab-6d1a-4f73-9b9b-9514d35705e2" />
+" width="800">
 
 ### Gameplay
 
-<img src="screenshots/gameplay.png" width="800">
+<img src="<img width="1920" height="1015" alt="Screenshot 2026-06-02 091436" src="https://github.com/user-attachments/assets/188ba846-e5c6-4a27-8e7b-53c7e7de4b0d" />
+" width="800">
 
 ### Winner Screen
 
-<img src="screenshots/winner.png" width="800">
+<img src="<img width="1920" height="1019" alt="Screenshot 2026-06-02 091453" src="https://github.com/user-attachments/assets/c434330d-a4e9-4c9f-a497-2a4276db568c" />
+" width="800">
 
-> Create a folder named `screenshots` in your repository and upload your screenshots there.
-
----
 
 ## ✨ Features
 
@@ -59,7 +59,6 @@ https://www.linkedin.com/posts/papunsamal_internpe-webdevelopment-javascript-ugc
 
 ## 📂 Project Structure
 
-```text
 Connect4-Master-Game/
 │
 ├── index.html
@@ -70,9 +69,7 @@ Connect4-Master-Game/
     ├── home.png
     ├── gameplay.png
     └── winner.png
-```
 
----
 
 ## ⚙️ Installation
 
