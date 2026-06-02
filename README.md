@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/93ba9130-5b11-4db7-b1df-5a479f35f508
+
 # 🎮 Connect 4 Master Game
 
 ![HTML](https://img.shields.io/badge/HTML5-Structure-orange?logo=html5)
